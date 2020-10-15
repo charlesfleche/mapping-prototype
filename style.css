@@ -1,0 +1,21 @@
+path {
+  stroke: white;
+}
+
+/* Party 1 */
+path[data-party-id="91"] {
+  fill: #d7445b;
+}
+
+path[data-party-id="91"]:hover {
+  stroke: crimson;
+}
+
+/* Party 2 */
+path[data-party-id="92"] {
+  fill: #499ed5;
+}
+
+path[data-party-id="92"]:hover {
+  stroke: darkblue;
+}

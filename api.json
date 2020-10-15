@@ -1,0 +1,154 @@
+{
+  "parties": {
+    "91": {
+      "name": "Party 1"
+    },
+    "92": {
+      "name": "Party 2"
+    }
+  },
+  "candidates": {
+    "101": {
+      "name": "Angélique Nadia",
+      "party": "91"
+    },
+    "102": {
+      "name": "Toinette Florian",
+      "party": "91"
+    },
+    "103": {
+      "name": "Marguerite Jacky",
+      "party": "92"
+    },
+    "104": {
+      "name": "Josseline Timothé",
+      "party": "92"
+    },
+    "105": {
+      "name": "Humbert Roger",
+      "party": "91"
+    },
+    "106": {
+      "name": "Richard Huguette",
+      "party": "91"
+    },
+    "107": {
+      "name": "Julie Toinette",
+      "party": "92"
+    },
+    "108": {
+      "name": "Joséphine Gratien",
+      "party": "91"
+    },
+    "109": {
+      "name": "Amélie Madeline",
+      "party": "91"
+    },
+    "110": {
+      "name": "Micheline Marie-Hélène",
+      "party": "91"
+    },
+    "111": {
+      "name": "Amaury Sara",
+      "party": "92"
+    },
+    "112": {
+      "name": "Francette Pétronille",
+      "party": "92"
+    },
+    "113": {
+      "name": "Nicolas Sophie",
+      "party": "91"
+    },
+    "114": {
+      "name": "Noam Pierre",
+      "party": "91"
+    },
+    "115": {
+      "name": "Henriette Théa",
+      "party": "91"
+    },
+    "116": {
+      "name": "Alphonsine Eulalie",
+      "party": "92"
+    },
+    "117": {
+      "name": "Marine Charly",
+      "party": "92"
+    },
+    "118": {
+      "name": "Agathe Bénédicte",
+      "party": "92"
+    },
+    "119": {
+      "name": "Yoann Daniel",
+      "party": "91"
+    },
+    "120": {
+      "name": "Cunégonde Marius",
+      "party": "91"
+    }
+  },
+  "areas": {
+    "1": {
+      "winning_candidate": "105"
+    },
+    "2": {
+      "winning_candidate": "103"
+    },
+    "3": {
+      "winning_candidate": "102"
+    },
+    "4": {
+      "winning_candidate": "104"
+    },
+    "5": {
+      "winning_candidate": "101"
+    },
+    "6": {
+      "winning_candidate": "107"
+    },
+    "7": {
+      "winning_candidate": "106"
+    },
+    "8": {
+      "winning_candidate": "108"
+    },
+    "9": {
+      "winning_candidate": "110"
+    },
+    "10": {
+      "winning_candidate": "109"
+    },
+    "11": {
+      "winning_candidate": "112"
+    },
+    "12": {
+      "winning_candidate": "113"
+    },
+    "13": {
+      "winning_candidate": "114"
+    },
+    "14": {
+      "winning_candidate": "115"
+    },
+    "15": {
+      "winning_candidate": "111"
+    },
+    "16": {
+      "winning_candidate": "120"
+    },
+    "17": {
+      "winning_candidate": "119"
+    },
+    "18": {
+      "winning_candidate": "118"
+    },
+    "19": {
+      "winning_candidate": "117"
+    },
+    "20": {
+      "winning_candidate": "116"
+    }
+  }
+}
